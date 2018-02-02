@@ -1,39 +1,49 @@
-Name:
+Name:Jess Eaton
 
 
-1.
+1. source code is a java program for programers to read while bytecode is a java comiler that machines read
+Sourcecode is a Java program created by a programmer while Bytecode is created from a Java compiler that has information on the machine language for the Java virtual machine 
 
-2.
+2. 
+a class is a specific part of a program inside braces
 
-3.
+3. The Java virtual machine starting up of the program
 
-4.
+4. the characters inbetween quotation marks
 
-5.
+5. Yes, Java is a case sensitive program
 
-6.
+6. A bug is where the program works unexpectadly than origonally planned
 
-7.
+7. the 'system.out.println' makes sure that the words you put in are written down on another line
 
-8.
+8. you use two slashes and then write a note to yourself or another programmer.  For exmaple //this makes these lines print
 
-9.
+9. /*hello*/
 
-10.
+10. Hello Mercury!
+Hello Venus!
+Hello Earth!
+Hello Mars!
+Hello Jupiter!
+Hello Saturn!
+Hello Uranus!
+Hello Neptune!
+Hello Pluto!
 
-11.
+11. the 8 primary data types are byte, short, int, long, float, double, char and boolean
 
-12.
+12. the largest primitive data type for holding an integer is long
 
-13.
+13. the largest primitve data type for holding floating point number is double
 
-14.
-a.
-b.
+14. 
+a. int
+b. double
 
-15.
+15. 19345
 
-16.
+16. char is a single character
 
-17.
+17. false
 
