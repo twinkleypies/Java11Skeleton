@@ -2,7 +2,6 @@ Name:Jess Eaton
 
 
 1. source code is a java program for programers to read while bytecode is a java comiler that machines read
-Sourcecode is a Java program created by a programmer while Bytecode is created from a Java compiler that has information on the machine language for the Java virtual machine 
 
 2. 
 a class is a specific part of a program inside braces
