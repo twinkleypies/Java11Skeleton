@@ -1,38 +1,39 @@
 Assignment 5
 Name:
 
-1.
+1.the other 2 system package are system.out and system.error
 
-2.
+2. the system package used to print consoles like "hello, world" is system.out
 
-3.
+3. the line you add at the top of the program to access the scanner object import java.util.scanner;
 
-4.
+4. the package of the scanner object is apart of java.util
 
 5.
-    5.1.
+    5.1. Scanner scan = new Scanner (system.in);
 
-    5.2.
+    5.2. System.out.println("you entered:" + inData);
 
-    5.3.
+    5.3. inData = scan.nextLine();
 
-6.
+6. No, because the code didn't identify dog as the identifier 
 
-7.
+7. inData = scan.nextLine(); tells the computer to get the data entered into the console
 
 8. This is in NameEcho.java
 
 9. This is in NameEchoAlt.java
 
-10.
+10. nextInt ()
 
 11.
-    11.1.
+    11.1. The square of 46 is 2116
 
-    11.2.
+    11.2. 
+The square of 50000 is -1794967296
 
-    11.3.
+    11.3. Use the primitive integer long
 
 12. This is in AddThree.java
 
-13. 
+13. Answer is in the intDividetest.java
