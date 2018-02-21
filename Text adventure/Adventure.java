@@ -5,6 +5,7 @@ public class Adventure
     public static boolean hasRock;
     public static boolean Life;
     public static boolean shelter;
+    public static String roomChoice = sc.nextLine();
     public static void main(String[] args) {
         String playerName;
         Scanner sc = new Scanner(System.in) ;
@@ -64,6 +65,7 @@ public class Adventure
                     StartRoom();
                 }
             }        
+        }
                     
            
                 
