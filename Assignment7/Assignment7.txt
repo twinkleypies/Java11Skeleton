@@ -4,28 +4,30 @@ Name:
 Chapter 13
 ==========
 
-1.
+1. nothing different happened.
 
-2.
+2. It's not a double so it wont work.
 
-3.
+3. 730 and 0.023
 
-4.
+4. 12
 
-5.
+5. the static method accesses a class using a dot operator =
 
-6.
+6. the output would be nan
 
-7.
 
-8.
+
+7. it stands for not a number
+
+8. The first numbers of question one is an integer and integers can't be decimals so that's why it would be 0 and then the second one turns one of the numbers into a double so then the answer can be correct
 
 
 Chapter 16
 ==========
 
-1.
+1. the curly braces
 
-2.
+2. == checks to see if the two subjects are equal, != checks to see if they're not equal
 
-3.
+3. A nested if statement is an if statemnt with another if statement within it
