@@ -1,18 +1,18 @@
 Assignment 7
 Name:
 
-1.
+1. The problem with comparing doubles is that doubles round and they're not exact 
 
-2.
+2. The two states booleans expressions can have are true or false
 
-3.
+3. There are 6 varieties of if statements
 
-4.
+4. final in front of a definiton means that that variable will continuously be the same throughout the program
 
-5.
+5. 8/10
 
-6.
+6. The symbol for "and" is &&
 
-7.
+7. The symbol for "or" is ||
 
-8.
+8. The symbol for "not" is !

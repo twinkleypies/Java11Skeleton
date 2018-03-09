@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class TirePressure1{
+class TirePressure2{
         public static void main (String[] args) {
             Scanner scan = new Scanner(System.in);
             int RightFront;
@@ -16,7 +16,7 @@ class TirePressure1{
             System.out.println("What is your left back tire pressure?");
             LeftBack = scan.nextInt();
             
-            if (RightFront == LeftFront && RightBack==LeftBack){
+            if (RightFront ||LeftFront && RightBack==LeftBack){
                 System.out.println("Inflation is good");
             }
 
