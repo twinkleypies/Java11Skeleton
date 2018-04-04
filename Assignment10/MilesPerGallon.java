@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class mpg {
+class MilesPerGallon {
 
     public static void main (String[] args) {
 
