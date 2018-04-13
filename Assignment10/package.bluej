@@ -1,8 +1,8 @@
 #BlueJ package file
-editor.fx.0.height=747
-editor.fx.0.width=818
-editor.fx.0.x=551
-editor.fx.0.y=98
+editor.fx.0.height=0
+editor.fx.0.width=0
+editor.fx.0.x=0
+editor.fx.0.y=0
 objectbench.height=149
 objectbench.width=758
 package.divider.horizontal=0.6
@@ -31,10 +31,10 @@ target1.width=110
 target1.x=130
 target1.y=10
 target2.height=50
-target2.name=mpg
+target2.name=MilesPerGallon
 target2.showInterface=false
 target2.type=ClassTarget
-target2.width=80
+target2.width=120
 target2.x=70
 target2.y=70
 target3.height=50
