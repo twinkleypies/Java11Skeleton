@@ -7,16 +7,18 @@ class SumRandom {
 
         Scanner scan = new Scanner(System.in);
         Random generateRandom = new Random();
-        int num, counter;
+        int num, sum=0;
+        //sets the variables and sets up random generater and scanner
 
-        for (counter = 1; counter <= 100; counter++) {
+        for (int i = 0; i <= 10; i++) {
             num = generateRandom.nextInt(25) + 1;
-            System.out.println(counter + " " + num);
+            sum += num;
+            System.out.println(i + " " + num);
+            //gets the sum of numbers makes the loop so it can generate numbers up to 25
         }
 
-        System.out.print("Let's enter a number just for fun:");
-        num = scan.nextInt();
-        System.out.println("The number you entered was: " + num);
+        System.out.println("the sum is " + sum);
+        //gives the total
 
     }
 }
