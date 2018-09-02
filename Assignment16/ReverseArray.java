@@ -2,7 +2,7 @@ class ReverseArray {
     public static void main(String[] args) {
         int[] val = { 0, 1, 2, 3 };
         int temp;
-       
+       //sets values
         
 
 
@@ -17,5 +17,6 @@ class ReverseArray {
         val[2] = temp;
 
         System.out.println("Reversed Array: " + val[0] + " " + val[1] + " " + val[2] + " " + val[3]);
+        //prints out the values backwards
     }
 }
